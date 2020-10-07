@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
+## Drug Cost Transparency Services Portal
+
+This is an application meant to be used by medical practitioner when interacting with patients about prescribing drugs
+
+![Login Screen](/img/Login.png)
+![Login Screen](/img/Dashboard.png)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
