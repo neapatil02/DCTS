@@ -6,7 +6,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This is an application meant to be used by medical practitioner when interacting with patients about prescribing drugs
 
+###Login Screen for Medical Practitioners
 ![Login Screen](/img/Login.png)
+
+
+###Drug Search Dashboard
 ![Login Screen](/img/Dashboard.png)
 
 ## Development server
